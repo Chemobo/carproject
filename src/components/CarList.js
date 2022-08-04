@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Car from "./Car";
 // fetch data
-const API_URL = "https://carjay.herokuapp.com/cars";
+const API_URL = "https://shrouded-octagonal-wren.glitch.me/cars";
 
 function CarList() {
   const [counter, setCounter] = useState([]);
