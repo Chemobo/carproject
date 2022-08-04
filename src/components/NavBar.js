@@ -4,13 +4,13 @@ function NavBar () {
     return (
      <nav className ="nav">
         <NavLink   to="/">
-      Home
+      <li>Home</li>
         </NavLink>
         <NavLink   to="/carlist">
-      CarList
+       <li>carList</li>
         </NavLink>
         <NavLink   to="/newcar">
-      NewCar
+      <li>NewCar</li>
         </NavLink>
     </nav>
     );

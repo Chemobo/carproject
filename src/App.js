@@ -6,11 +6,14 @@ import NavBar from "./components/NavBar";
 import Home from "./components/Home";
 import NewCar from './components/NewCar';
 
+
 // render carlist
 function App() { 
     return (
     <div className="App">
-   <NavBar />
+      <header>
+      <NavBar />
+      </header>
    <Switch>
     <Route exact path="/" >
       <Home />

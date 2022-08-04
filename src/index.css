@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Form{
+  margin: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+
+}
+.nav li {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
