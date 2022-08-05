@@ -1,7 +1,9 @@
 *{
-  padding: 0;
+  padding: 10px;
   margin: 0;
   box-sizing: border-box;
+  justify-content: center;
+  background-color: rgb(169, 195, 195) ;
 
 
 }
