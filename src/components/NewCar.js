@@ -65,10 +65,10 @@ function NewCar() {
   return (
     <div>
    <form className="Form" onSubmit={handleSubmit}>
-   <input type="text" placeholder='enter Imge url'  value={img_url} onChange={handleChangeImage} /><br/><br/>
-   <input type="text" placeholder='enter make' value={make}  onChange={handleChangeMake}/><br/><br/>
-   <input type="text" placeholder='enter model' value={model}  onChange={handleChangeModel}/><br/><br/>
-   <input type="text" placeholder='enter price' value={price}  onChange={handleChangePrice}/><br/><br/>
+   <input type="text" placeholder='Enter Imge url'  value={img_url} onChange={handleChangeImage} /><br/><br/>
+   <input type="text" placeholder='Enter Make' value={make}  onChange={handleChangeMake}/><br/><br/>
+   <input type="text" placeholder='Enter Model' value={model}  onChange={handleChangeModel}/><br/><br/>
+   <input type="text" placeholder='Enter Price' value={price}  onChange={handleChangePrice}/><br/><br/>
 
    <button>Submit</button>
    </form>

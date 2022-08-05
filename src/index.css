@@ -19,6 +19,8 @@ code {
   align-items: center;
   flex-direction: column;
   background-color: blue;
+  border-color: black;
+  
   
 }
 .nav{
