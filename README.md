@@ -4,13 +4,6 @@
 ****
 ## Project Description
 Car Assembly App is a React SPA where the user can find a collection of cars and any relevant information about them. 
-******
-
-## SCREENSHOTS
-- link 1
-- link 2
-
-
 ********
 ## SetUp Instruction
 . Build a React single page application from scratch
