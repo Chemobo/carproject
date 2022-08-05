@@ -18,10 +18,10 @@ function App() {
     <Route exact path="/" >
       <Home/>
     </Route>
-    <Route path="/newcar">
+    <Route path="/NewCar">
       <NewCar />
     </Route>
-    <Route path="/carList">
+    <Route path="/Carlist">
       <CarList />
     </Route>
    </Switch>
