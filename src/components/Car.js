@@ -8,6 +8,7 @@ const Car =({count}) => {
                 <h1>{count.make}</h1>
                 <p>{count.model}</p>
                 <p>{count.price}</p>
+                <p>{count.id}</p>
             </div>
         </div>
     );
