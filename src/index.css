@@ -24,9 +24,16 @@ code {
 .nav{
   display: flex;
   justify-content: space-around;
-  background-color: aqua;
-
+  background-color: rgb(105, 105, 176);
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(104, 148, 197);
+  color: rgb(155, 201, 70);
+  box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
 }
+
 .nav li {
   display: flex;
   align-items: center;
